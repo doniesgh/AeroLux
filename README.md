@@ -1,7 +1,7 @@
 # AeroLux
 
 Welcome to the AirTrip Dashboard, a platform for managing travel agencies and facilitating air trip bookings for clients.
-
+This project will includes an interface for managing customer complaints.
 ## Getting Started
 
 ### Prerequisites
@@ -26,6 +26,5 @@ Welcome to the AirTrip Dashboard, a platform for managing travel agencies and fa
 ## Contributing
 
 If you'd like to contribute to this project, please follow these guidelines...
-
 
 ---
