@@ -3,9 +3,6 @@ package com.example.aeroluxjavafx;
 import com.example.aeroluxjavafx.utils.MyDatabase;
 import javafx.application.Application;
 import javafx.stage.Stage;
-import java.sql.SQLException;
-import javafx.application.Application;
-import javafx.stage.Stage;
 
 public class Main extends Application {
     public static void main(String[] args) {
@@ -18,6 +15,8 @@ public class Main extends Application {
         MyDatabase db2 = MyDatabase.getInstance();
         System.out.println(db);
         System.out.println(db2);
+        System.out.println("java: error: release version 21 not supported" );
+
 
     }
 }
